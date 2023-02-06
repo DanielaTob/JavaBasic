@@ -1,4 +1,4 @@
-package com.example;
+package com.example.conceptos;
 
 public class While {
 
